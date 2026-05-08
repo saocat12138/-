@@ -28,4 +28,8 @@
 
 ---
 
-
+##  结果展示
+### 1. AD_CN_Aligned_Differences_BarChart
+![AD_CN_Aligned_Differences_BarChart](AD_CN_Aligned_Differences_BarChart.png)
+### 2. DEC_Aligned_Hypergraphs_90Grid
+![DEC_Aligned_Hypergraphs_90Grid](DEC_Aligned_Hypergraphs_90Grid.png)
